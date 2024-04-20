@@ -23,20 +23,25 @@ Welcome to the Programming Books Repository! This repository is a curated collec
 ## Repository Structure:
 
 - **Algorithms/**
-  - *Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein.pdf*
-  - *Algorithms (4th Edition) by Robert Sedgewick, Kevin Wayne.epub*
+  - [*Introduction to Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein.pdf*](Algorithms/Introduction_to_Algorithms.pdf)
+  - [*Algorithm Design - Jon Kleinberg, Eva Tardos*](Algorithms/Algorithm_Design.pdf)
+  - [*Fundamentals Of Computer Algorithms - Horowitz, Sahani*](Algorithms/Fundamentals_Of_Computer_Algorithms.pdf)
+  - [*Approximation Algorithms - Vijay V. Vazirani*](Algorithms/Approximation_Algorithms.pdf)
 
 - **Databases/**
-  - *Database Systems: The Complete Book by Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom.pdf*
-  - *NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence by Martin Fowler, Pramod J. Sadalage.pdf*
+  - [*Fundamento de Sistemas de Bases de Datos - Ramez Elmasri, Shamkant B. Navathe*](Databases/Fundamento_de_Sistemas_de_Bases_de_Datos.pdf)
 
 - **Data Science/**
-  - *Python for Data Analysis by Wes McKinney.pdf*
-  - *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron.pdf*
+  - [*An Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor*](Data_Science/An_Introduction_to_Statistical_Learning.pdf)
+  - [*Machine Learning, An Algorithmic Perspective - Stephen Marsland*](Data_Science/Machine_Learning_An_Algorithmic_Perspective.pdf)
+  - [*Pattern Recognition And Machine Learning - Christopher M. Bishop*](Data_Science/Pattern_Recognition_And_Machine_Learning.pdf)
 
 - **Programming/**
-  - *Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin.pdf*
-  - *The Pragmatic Programmer: Your Journey to Mastery by Andrew Hunt, David Thomas.pdf*
+  - [*The Science of Programming - David Gries*](Programming/The_Science_Of_Programming.pdf)
+  - [*The C Programming Language - Brian W. Kernighan, Dennis M. Ritchie*](Programming/The_C_Programming_Language.pdf)
+  - [*The C++ Programming Language - Bjarne Stroustrup*](Programming/The_C++_Programming_Language.pdf)
+  - [*Object Oriented Programming in 21 Days - Anthony Sintes*](Programming/Object_Oriented_Programming_in_21_Days.pdf)
+  - [*Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin.pdf*](Programming/Clean_Code.pdf)
 
 ## License:
 
